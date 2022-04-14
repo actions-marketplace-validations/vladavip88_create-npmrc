@@ -18,7 +18,7 @@ AuthToken that is able to download files from the repository, can also be passed
 ## Example usage
 
 ```ylm
-uses: ferluisxd/create-npmrc@3
+uses: vladavip88/create-npmrc@3
 with:
   org_name: lig0
   auth_token: 31352d11daasdf769942919dsafas594a5d
