@@ -1,4 +1,4 @@
-name: 'Create a .npmrc file for the github private repository'
+name: 'Create a .npmrc file for the github private repository forked'
 description: 'Create a .npmrc file for the github private repository'
 branding:
   color: 'green'
