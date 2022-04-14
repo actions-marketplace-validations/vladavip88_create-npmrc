@@ -18,7 +18,7 @@ AuthToken that is able to download files from the repository, can also be passed
 ## Example usage
 
 ```ylm
-uses: vladavip88/create-npmrc@3
+uses: vladavip88/create-npmrc@4
 with:
   org_name: lig0
   auth_token: 31352d11daasdf769942919dsafas594a5d
@@ -29,6 +29,6 @@ with:
 ## Example output
 
 ```npmrc
-registry = https://npm.pkg.github.com/lig0
+registry = https://npm.pkg.github.com/vladavip88
 //npm.pkg.github.com/:_authToken=31352d11daasdf769942919dsafas594a5d
 ```
